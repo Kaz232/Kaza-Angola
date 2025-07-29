@@ -1,30 +1,13 @@
-/index.html
-/style.css
-/app.js
-/assets/# 🖥️ Projeto: Interface de Resultados - Kaza Angola
 
-Este é um projeto visual criado com HTML, CSS e JavaScript para exibir resultados dinâmicos de busca. É parte da ideia da plataforma **Kaza Angola**, voltada para o mercado imobiliário digital.
+# Kaza Angola
 
-## 🔗 Link do projeto ao vivo:
+Plataforma de busca de imóveis em Angola 🇦🇴
 
-👉 [Ver projeto completo no CodePen](https://codepen.io/Josemar-Gourgel/full/jEbroKP)
+## Web
+O site está disponível via GitHub Pages: [https://kaz232.github.io/Kaza-Angola](https://kaz232.github.io/Kaza-Angola)
 
-## 📌 Tecnologias utilizadas
+## Mobile
+App Android pronta para compilar via AIDE ou Android Studio.
 
-- HTML5
-- CSS3
-- JavaScript
-- Plataforma CodePen
-
-## ✍️ Autor
-
-**Josemar Lukeny Gaspar do Amaral Gourgel**  
-Email: josemargourgel01@gmail.com  
-Marca: GAG# Kaza-Angola-git clone https://github.com/SEU_USUARIO/kaza-angola.git
-cd kaza-angola
-
-# Agora cria os ficheiros:
-touch package.json pages/index.js pages/api/search.js
-
-# Cola o código do frontend e API que enviei
-# (Se quiser, posso te dar um .zip direto)
+## APK
+Inclui APK de teste assinado digitalmente (modo desenvolvimento).

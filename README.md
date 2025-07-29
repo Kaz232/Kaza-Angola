@@ -1,4 +1,7 @@
-# 🖥️ Projeto: Interface de Resultados - Kaza Angola
+/index.html
+/style.css
+/app.js
+/assets/# 🖥️ Projeto: Interface de Resultados - Kaza Angola
 
 Este é um projeto visual criado com HTML, CSS e JavaScript para exibir resultados dinâmicos de busca. É parte da ideia da plataforma **Kaza Angola**, voltada para o mercado imobiliário digital.
 
